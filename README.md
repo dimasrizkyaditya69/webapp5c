@@ -1,2 +1,2 @@
 # webapp5c
-belajar git dasar
+belajar git dasar lalalala
